@@ -1,0 +1,28 @@
+h2{
+    margin: 0;
+    color: white;
+}
+.container{
+    margin: 0;
+    background-color: black;
+    height: 70px;
+    display: flex;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 40px;
+    /* margin-top: 40px; */
+}
+.menus{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
